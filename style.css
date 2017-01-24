@@ -1,0 +1,59 @@
+.container {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+h1, .tagline {
+  text-align: center;
+}
+
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  background-color: rgb(249, 247, 245);
+}
+
+header {
+  background-color: #FFFFFF;
+  padding: 10px 30px 10px 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+section {
+  background-color: #FFFFFF;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+hr {
+  border-color: rgb(216, 152, 90);
+  border-width: 1px;
+  border-style: solid;
+  margin-bottom: 5px;
+}
+
+.city-description {
+  font-size: 15px;
+  padding-left: 15px;
+  font-weight: normal;
+}
+
+img {
+  width: 45px;
+  padding: 15px 15px 0px 0px;
+}
+
+h2 {
+  margin: 0px;
+}
+
+a {
+  display: block;
+  margin: auto;
+  text-align: center;
+  color: purple;
+}
+
+a:hover {
+  color: orange;
+}
